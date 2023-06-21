@@ -4,7 +4,7 @@
 * is written
 * Return: 0
 */
-int main()
+int main(void)
 {
 putchar('');
 _putchar('p');
